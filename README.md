@@ -12,6 +12,7 @@ ShopEZ Stock Trading Platform is an interactive financial platform designed to b
 - **🌐 Vercel (Frontend Live App)**: [https://stockmarketing-mern.vercel.app](https://stockmarketing-mern.vercel.app)
 - **🚀 Render (Backend API Service)**: [https://stockmarketing-mern.onrender.com](https://stockmarketing-mern.onrender.com)
 - **📂 GitHub Repository**: [https://github.com/Thangaraj25/StockMarketing-MERN](https://github.com/Thangaraj25/StockMarketing-MERN)
+- **📑 Project Documentation**: [Google Drive Folder](https://drive.google.com/drive/folders/1RRKI9RImcnWK57irIZHyrZI0ZiLM8Gbm?usp=sharing)
 - **🩺 API Health Check**: [https://stockmarketing-mern.onrender.com/api/health](https://stockmarketing-mern.onrender.com/api/health)
 
 ---
