@@ -1,0 +1,12 @@
+{
+  "name": "shopez-stock-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix backend",
+    "backend": "npm start --prefix backend",
+    "dev:backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev:frontend": "npm run dev --prefix frontend"
+  }
+}

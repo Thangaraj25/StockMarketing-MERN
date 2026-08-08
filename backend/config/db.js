@@ -5,7 +5,7 @@ let isMongoConnected = false;
 const connectDB = async () => {
   try {
     const conn = await mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/shopez_stock_db', {
-      serverSelectionTimeoutMS: 3000
+      serverSelectionTimeoutMS: 10000
     });
     isMongoConnected = true;
     console.log(`[MongoDB] Connected: ${conn.connection.host}`);
